@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Stickers</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="notify">Enable notification</string>
+    <string name="notify_sub">Show app in notification bar</string>
+
+    <string name="rate">Rate App</string>
+    <string name="rate_sub">Rate this app and submit a feedback</string>
+
+    <string name="credits">Credits</string>
+    <string name="credits_1">Abhinav Jhanwar</string>
+    <string name="credits_2">Abhinav Jhanwar</string>
+    <string name="credits_3">Abhinav Jhanwar</string>
+    <string name="credits_4">Abhinav Jhanwar</string>
+    <string name="credits_5">Abhinav Jhanwar</string>
+
+
+    <string name="about">About</string>
+    <string name="about_sub">Stickers v1 by Lokesh Saini</string>
+
+    <string-array name="images_red">
+        <item>@drawable/red1_icon</item>
+        <item>@drawable/red2_icon</item>
+        <item>@drawable/red3_icon</item>
+        <item>@drawable/red4_icon</item>
+        <item>@drawable/red5_icon</item>
+        <item>@drawable/red6_icon</item>
+        <item>@drawable/red7_icon</item>
+        <item>@drawable/red8_icon</item>
+        <item>@drawable/red9_icon</item>
+        <item>@drawable/red10_icon</item>
+    </string-array>
+
+    <string-array name="images_green">
+        <item>@drawable/green1_icon</item>
+        <item>@drawable/green2_icon</item>
+        <item>@drawable/green3_icon</item>
+        <item>@drawable/green4_icon</item>
+        <item>@drawable/green5_icon</item>
+        <item>@drawable/green6_icon</item>
+        <item>@drawable/green7_icon</item>
+        <item>@drawable/green8_icon</item>
+        <item>@drawable/green9_icon</item>
+        <item>@drawable/green10_icon</item>
+    </string-array>
+
+    <string-array name="images_pandit">
+        <item>@drawable/pandit1_icon</item>
+        <item>@drawable/pandit3_icon</item>
+        <item>@drawable/pandit3_icon</item>
+        <item>@drawable/pandit4_icon</item>
+        <item>@drawable/pandit5_icon</item>
+        <item>@drawable/pandit6_icon</item>
+        <item>@drawable/pandit7_icon</item>
+        <item>@drawable/pandit8_icon</item>
+        <item>@drawable/pandit9_icon</item>
+        <item>@drawable/pandit10_icon</item>
+    </string-array>
+
+    <string-array name="images_girl">
+        <item>@drawable/girl1_icon</item>
+        <item>@drawable/girl2_icon</item>
+        <item>@drawable/girl3_icon</item>
+        <item>@drawable/girl4_icon</item>
+        <item>@drawable/girl5_icon</item>
+        <item>@drawable/girl6_icon</item>
+        <item>@drawable/girl7_icon</item>
+        <item>@drawable/girl8_icon</item>
+        <item>@drawable/girl9_icon</item>
+        <item>@drawable/girl10_icon</item>
+        <item>@drawable/girl11_icon</item>
+        <item>@drawable/girl12_icon</item>
+        <item>@drawable/girl13_icon</item>
+    </string-array>
+
+    <string-array name="images_god">
+        <item>@drawable/god1_icon</item>
+        <item>@drawable/god2_icon</item>
+        <item>@drawable/god3_icon</item>
+        <item>@drawable/god4_icon</item>
+        <item>@drawable/god5_icon</item>
+        <item>@drawable/god6_icon</item>
+        <item>@drawable/god7_icon</item>
+        <item>@drawable/god8_icon</item>
+        <item>@drawable/god9_icon</item>
+        <item>@drawable/god10_icon</item>
+        <item>@drawable/god11_icon</item>
+        <item>@drawable/god12_icon</item>
+    </string-array>
+
+</resources>
